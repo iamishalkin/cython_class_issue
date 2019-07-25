@@ -1,5 +1,10 @@
 # Cython issue
 
+**Now fixed, address 
+[stackoverflow](https://stackoverflow.com/questions/57185219/error-when-passing-pointer-to-imported-extension-type-method-while-having-no-pro)
+for details.**
+
+
 Need to put class into separate file, but get an Error
 
 "working" dir for working example
@@ -9,3 +14,5 @@ Need to put class into separate file, but get an Error
 The question is asked on [stackoverflow](https://stackoverflow.com/questions/57185219/error-when-passing-pointer-to-imported-extention-type-method-while-having-no-pro)
 
 P.S. all the actions are done according to documentation: [doc1](https://cython.readthedocs.io/en/latest/src/userguide/extension_types.html#instantiation-from-existing-c-c-pointers), [doc2](https://cython.readthedocs.io/en/latest/src/userguide/sharing_declarations.html#sharing-extension-types)
+
+
